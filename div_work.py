@@ -1,2 +1,2 @@
-def div_work(a,b):
+def div(a,b):
     return(a/b)

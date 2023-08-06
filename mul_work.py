@@ -1,2 +1,2 @@
-def mul_work(a,b):
+def mul(a,b):
    return(a*b)
