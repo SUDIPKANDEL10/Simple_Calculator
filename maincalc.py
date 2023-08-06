@@ -4,8 +4,8 @@ import mul_work
 import div_work
 
 print("welcome to the calculator enjoy using calculator")
-a=int(input("enter the value:"))
-b= int(input("enter the second value"))
+a=50
+b= 5
 
 tot_sum=add_work.add(a,b)
 tot_sub=sub_work.sub(a,b)
